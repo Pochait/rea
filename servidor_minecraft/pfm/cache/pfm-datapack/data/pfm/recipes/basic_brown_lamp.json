@@ -1,0 +1,81 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "ecologics:flowering_azalea",
+    "ecologics:azalea",
+    "ecologics:coconut",
+    "ecologics:walnut",
+    "quark:azalea",
+    "quark:ancient",
+    "quark:blossom",
+    "eldritch_end:primordial",
+    "biomesoplenty:fir",
+    "biomesoplenty:redwood",
+    "biomesoplenty:mahogany",
+    "biomesoplenty:jacaranda",
+    "biomesoplenty:palm",
+    "biomesoplenty:willow",
+    "biomesoplenty:dead",
+    "biomesoplenty:magic",
+    "biomesoplenty:umbran",
+    "biomesoplenty:hellbark",
+    "twilightforest:twilight_oak",
+    "twilightforest:canopy",
+    "twilightforest:mangrove",
+    "twilightforest:dark",
+    "twilightforest:time",
+    "twilightforest:transformation",
+    "twilightforest:mining",
+    "twilightforest:sorting",
+    "born_in_chaos_v1:scorched",
+    "cataclysm:chorus",
+    "witherstormmod:tainted",
+    "deeperdarker:echo",
+    "tconstruct:greenheart",
+    "tconstruct:skyroot",
+    "tconstruct:bloodshroom",
+    "tconstruct:enderbark"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [
+      {
+        "item": "minecraft:brown_wool"
+      },
+      {
+        "item": "minecraft:brown_wool"
+      },
+      {
+        "item": "minecraft:brown_wool"
+      },
+      {
+        "item": "minecraft:torch"
+      },
+      {
+        "item": "minecraft:redstone"
+      }
+    ],
+    "variantChildren": {
+      "stripped_log": 2
+    }
+  },
+  "result": {
+    "outputClass": "BasicLampBlock",
+    "tag": {
+      "BlockEntityTag": {
+        "color": "brown"
+      },
+      "variantInNbt": 1
+    }
+  }
+}
