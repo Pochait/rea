@@ -1263,9 +1263,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
+  "tombstone:adventure/almost_unkillable": {
     "criteria": {
-      "location0": "2025-07-12 04:18:42 +0000"
+      "coded_trigger": "2025-07-12 03:21:05 +0000"
     },
     "done": true
   },
@@ -1281,9 +1281,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/almost_unkillable": {
+  "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
-      "coded_trigger": "2025-07-12 03:21:05 +0000"
+      "location0": "2025-07-12 04:18:42 +0000"
     },
     "done": true
   },
