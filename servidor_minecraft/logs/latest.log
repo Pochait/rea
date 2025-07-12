@@ -2562,3 +2562,14 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 21:50:00.029] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
 [12Jul2025 21:50:00.030] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
 [12Jul2025 21:50:00.030] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[12Jul2025 21:51:14.282] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 10.000833072589785,-0.8378585789729982,0.6990063611979167
+[12Jul2025 21:52:19.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! 9.396586161090454,1.1767592750642422,3.887552336143017
+[12Jul2025 21:53:08.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [An Ancient Tomb]
+[12Jul2025 21:53:19.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Tools of the Trade]
+[12Jul2025 21:54:26.327] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[12Jul2025 21:55:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Not even afraid of death]
+[12Jul2025 21:55:29.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Back to childhood]
+[12Jul2025 21:56:05.205] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Jul2025 21:56:05.208] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Jul2025 21:56:33.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -1.3397458400548885,1.0752008901189498,9.991329241870517
+[12Jul2025 21:58:52.452] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/76163, l='ServerLevel[world]', x=-529.50, y=77.00, z=4897.50]

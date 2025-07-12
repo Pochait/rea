@@ -1369,6 +1369,12 @@
     },
     "done": true
   },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-07-12 21:53:08 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-07-12 21:23:38 +0000"
@@ -1378,6 +1384,18 @@
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-07-12 21:29:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-07-12 21:55:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-07-12 21:55:29 +0000"
     },
     "done": true
   },
