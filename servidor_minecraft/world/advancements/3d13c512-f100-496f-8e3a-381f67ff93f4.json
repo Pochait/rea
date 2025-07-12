@@ -134,6 +134,7 @@
       "minecraft:ocean": "2025-06-05 02:00:41 +0000",
       "minecraft:jungle": "2025-06-19 03:11:57 +0000",
       "minecraft:windswept_savanna": "2025-06-21 03:02:36 +0000",
+      "minecraft:warm_ocean": "2025-07-12 22:35:28 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-07-12 21:40:55 +0000",
       "minecraft:flower_forest": "2025-06-02 03:06:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-05 02:04:06 +0000",
@@ -1396,6 +1397,18 @@
   "tombstone:adventure/enchant_voodoo_poppet": {
     "criteria": {
       "has_enchanted_voodoo_poppet": "2025-07-12 21:55:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-07-12 22:34:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-07-12 22:39:19 +0000"
     },
     "done": true
   },
