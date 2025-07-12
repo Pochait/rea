@@ -5655,3 +5655,5 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [12Jul2025 19:53:32.930] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jul2025 19:53:32.930] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jul2025 19:56:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has completed the challenge [Premium!]
+[12Jul2025 19:58:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> TTTT
+[12Jul2025 20:02:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Quaint Scribe]
