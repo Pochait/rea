@@ -2375,3 +2375,66 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 20:42:12.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/2012, l='ServerLevel[world]', x=-793.42, y=68.00, z=8235.67] died, message: 'Leatherworker was laid to rest by Priest'
 [12Jul2025 20:43:56.455] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2786, l='ServerLevel[world]', x=-732.50, y=74.00, z=8088.50]
 [12Jul2025 20:46:53.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/5003, l='ServerLevel[world]', x=-732.50, y=74.00, z=8090.50]
+[12Jul2025 20:49:39.252] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7103, l='ServerLevel[world]', x=-732.50, y=74.00, z=8089.50]
+[12Jul2025 20:50:14.298] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[12Jul2025 20:50:51.480] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-489, y=24, z=4464}
+[12Jul2025 20:54:32.343] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Jul2025 20:54:32.344] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Jul2025 20:57:21.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.44072049290616633
+[12Jul2025 20:57:21.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.675609541131962
+[12Jul2025 20:57:21.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.34377183125434385
+[12Jul2025 20:57:21.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.6784100179693269
+[12Jul2025 20:57:21.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved wrongly! 0.34361079651444015
+[12Jul2025 20:58:40.677] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-801, y=0, z=5519}
+[12Jul2025 20:58:55.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -5.469164951029711,0.0,8.4982907275471
+[12Jul2025 20:58:55.584] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -5.70115236554534,0.0,8.810872954907609
+[12Jul2025 20:58:55.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -5.9326997833234145,0.0,9.125091317569058
+[12Jul2025 20:58:55.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.163740695174056,0.0,9.440858384148669
+[12Jul2025 20:58:55.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.394224492723879,0.0,9.758088611870335
+[12Jul2025 20:58:55.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.62411493793843,0.0,10.076698247110471
+[12Jul2025 20:58:55.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.853391961502666,0.0,10.39660307522081
+[12Jul2025 20:58:55.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.082040553908996,0.0,10.717724974713747
+[12Jul2025 20:58:55.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.310056655799599,0.0,11.039987068566006
+[12Jul2025 20:58:55.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.5374460983418885,0.0,11.363313651923818
+[12Jul2025 20:58:55.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.764217258830058,0.0,11.68763437387588
+[12Jul2025 20:58:55.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.990380815385834,0.0,12.012883716954093
+[12Jul2025 20:58:55.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.215955933688065,0.0,12.3389962967658
+[12Jul2025 20:58:55.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.440959825594405,0.0,12.665913218928836
+[12Jul2025 20:58:55.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.665414361336047,0.0,12.993577216770063
+[12Jul2025 20:58:55.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.88992288211523,0.0,13.321547073742295
+[12Jul2025 20:58:55.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -9.115536608415482,0.0,13.64904812561781
+[12Jul2025 20:58:55.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -9.34307407725646,0.0,13.97542940918629
+[12Jul2025 20:58:55.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.0437942252391395,0.0,8.312500017990715
+[12Jul2025 20:58:55.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.302643289054799,0.0,8.614451422005914
+[12Jul2025 20:58:55.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.565103428358611,0.0,8.913225946082093
+[12Jul2025 20:58:55.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -6.831058391396368,0.0,9.208871509528763
+[12Jul2025 20:58:55.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.1003756845581165,0.0,9.501457758203287
+[12Jul2025 20:58:55.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.37291644435652,0.0,9.791065854539738
+[12Jul2025 20:58:55.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.6485315165223255,0.0,10.077793556441065
+[12Jul2025 20:58:55.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -7.9270679593968225,0.0,10.361748165372774
+[12Jul2025 20:58:55.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.208374718171058,0.0,10.64304002132485
+[12Jul2025 20:58:55.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.492297764686668,0.0,10.921788302845016
+[12Jul2025 20:58:55.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -8.778688007401797,0.0,11.198111519138365
+[12Jul2025 20:58:55.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -9.067398527164755,0.0,11.472130678305803
+[12Jul2025 20:58:55.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -9.358284531338427,0.0,11.74396917901322
+[12Jul2025 20:58:55.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! -9.651210519085907,0.0,12.01374375181149
+[12Jul2025 20:58:55.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 10.242653742122684,0.0,-12.547573928301972
+[12Jul2025 20:58:55.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ThebrosXD) moved too quickly! 9.950966043387439,0.0,-12.277169653388228
+[12Jul2025 20:59:04.138] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-858, y=-31, z=5664}
