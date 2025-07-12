@@ -357,6 +357,7 @@
       "shrubland": "2025-06-02 02:37:16 +0000",
       "rocky_shrubland": "2025-06-02 03:00:41 +0000",
       "scrubland": "2025-06-02 02:45:54 +0000",
+      "bayou": "2025-07-12 19:55:25 +0000",
       "lush_savanna": "2025-07-12 19:31:35 +0000",
       "highland": "2025-06-12 02:31:19 +0000",
       "clover_patch": "2025-06-19 01:35:17 +0000",
@@ -1319,6 +1320,18 @@
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-07-12 19:41:33 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-12 19:49:35 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-07-12 19:56:07 +0000"
     },
     "done": true
   },
