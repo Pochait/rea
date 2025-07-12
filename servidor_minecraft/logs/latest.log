@@ -2551,3 +2551,14 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 21:35:47.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/50898, l='ServerLevel[world]', x=-1492.50, y=71.00, z=7945.50]
 [12Jul2025 21:36:30.553] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/51475, l='ServerLevel[world]', x=-1461.50, y=73.00, z=7915.50]
 [12Jul2025 21:36:49.875] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[12Jul2025 21:41:04.394] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1266, y=-34, z=7653}
+[12Jul2025 21:43:12.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58029, l='ServerLevel[world]', x=-2358.50, y=63.00, z=3677.50] died, message: 'Villager was slain by Barrel Zombie'
+[12Jul2025 21:43:17.872] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58027, l='ServerLevel[world]', x=-2361.37, y=63.00, z=3663.67] died, message: 'Villager was slain by Barrel Zombie'
+[12Jul2025 21:44:11.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58028, l='ServerLevel[world]', x=-2364.74, y=63.94, z=3656.67] died, message: 'Villager was slain by Zombie Clown'
+[12Jul2025 21:44:24.670] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/58070, l='ServerLevel[world]', x=-2316.51, y=67.05, z=3634.30] died, message: 'Villager was blown up by Creeper'
+[12Jul2025 21:44:50.442] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-864, y=10, z=7349}
+[12Jul2025 21:44:50.442] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-863, y=10, z=7351}
+[12Jul2025 21:45:03.443] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/61218, l='ServerLevel[world]', x=-1221.73, y=-44.00, z=7399.56] as it would cause deadlock
+[12Jul2025 21:50:00.029] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[12Jul2025 21:50:00.030] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[12Jul2025 21:50:00.030] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
