@@ -258,6 +258,7 @@
       "skyslime_vine": "2025-06-05 02:11:19 +0000",
       "whitestone": "2025-07-10 14:36:13 +0000",
       "slimesteel": "2025-06-20 03:25:54 +0000",
+      "hepatizon": "2025-07-12 21:32:08 +0000",
       "pig_iron": "2025-07-10 14:36:13 +0000",
       "iron": "2025-06-02 02:23:57 +0000"
     },
@@ -266,7 +267,8 @@
   "tconstruct:world/ancient_tools": {
     "criteria": {
       "swasher": "2025-07-10 14:36:13 +0000",
-      "war_pick": "2025-06-02 02:23:57 +0000"
+      "war_pick": "2025-06-02 02:23:57 +0000",
+      "melting_pan": "2025-07-12 21:32:08 +0000"
     },
     "done": false
   },
@@ -462,6 +464,7 @@
       "entered_druid_circle": "2025-06-02 03:03:10 +0000",
       "entered_desert_temple": "2025-07-12 19:35:39 +0000",
       "entered_ice_pit": "2025-06-20 02:08:57 +0000",
+      "entered_large_dungeon": "2025-07-12 21:29:19 +0000",
       "entered_tall_witch_hut": "2025-07-12 21:19:20 +0000",
       "entered_ruined_building": "2025-06-12 02:43:29 +0000"
     },
@@ -1368,6 +1371,12 @@
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-07-12 21:23:38 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:thats_a_dungeon": {
+    "criteria": {
+      "entered_large_dungeon": "2025-07-12 21:29:19 +0000"
     },
     "done": true
   },
