@@ -1262,6 +1262,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-07-12 04:18:42 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-07-12 03:22:35 +0000"

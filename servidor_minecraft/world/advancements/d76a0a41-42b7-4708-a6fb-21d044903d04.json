@@ -1368,6 +1368,12 @@
     },
     "done": false
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-07-12 04:18:50 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2025-07-12 03:24:16 +0000"
