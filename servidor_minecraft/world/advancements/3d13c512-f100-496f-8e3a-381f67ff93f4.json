@@ -462,6 +462,7 @@
       "entered_druid_circle": "2025-06-02 03:03:10 +0000",
       "entered_desert_temple": "2025-07-12 19:35:39 +0000",
       "entered_ice_pit": "2025-06-20 02:08:57 +0000",
+      "entered_tall_witch_hut": "2025-07-12 21:19:20 +0000",
       "entered_ruined_building": "2025-06-12 02:43:29 +0000"
     },
     "done": false
@@ -1361,6 +1362,12 @@
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-07-12 20:16:52 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-07-12 21:23:38 +0000"
     },
     "done": true
   },

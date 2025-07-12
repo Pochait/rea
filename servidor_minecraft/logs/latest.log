@@ -2522,3 +2522,19 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 21:15:28.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! -1.792317807674408,0.0,13.884797096252441
 [12Jul2025 21:15:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! 4.310637444257736,-0.5,-10.120197534561157
 [12Jul2025 21:17:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [It's an Emu!!!]
+[12Jul2025 21:20:17.149] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[12Jul2025 21:20:17.150] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[12Jul2025 21:20:17.171] [Worker-Main-17/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[12Jul2025 21:22:34.507] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-976, y=21, z=7776}
+[12Jul2025 21:23:38.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Call For Adventure]
+[12Jul2025 21:26:16.428] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/39773, l='ServerLevel[world]', x=-2999.50, y=45.00, z=5385.50]
+[12Jul2025 21:28:45.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/43365, l='ServerLevel[world]', x=-2873.96, y=80.00, z=4930.98] died, message: 'Weaponsmith was slain by Dread Hound'
+[12Jul2025 21:28:59.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43454, l='ServerLevel[world]', x=-2885.95, y=81.00, z=4940.70] died, message: 'Villager was slain by Zombie'
+[12Jul2025 21:29:12.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43368, l='ServerLevel[world]', x=-2873.52, y=82.00, z=4950.49] died, message: 'Villager was slain by Dread Hound'
+[12Jul2025 21:29:13.998] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43465, l='ServerLevel[world]', x=-2856.01, y=78.00, z=4922.09] died, message: 'Villager was slain by Zombie Villager'
+[12Jul2025 21:29:17.039] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/43537, l='ServerLevel[world]', x=-2909.96, y=78.54, z=4935.70] died, message: 'Armorer was shot by Zombie Villager'
+[12Jul2025 21:29:19.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [What a Dungeon!]
+[12Jul2025 21:29:19.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/43458, l='ServerLevel[world]', x=-2888.30, y=82.64, z=4945.38] died, message: 'Villager was slain by Zombie Villager'
+[12Jul2025 21:29:20.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41708, l='ServerLevel[world]', x=-2888.33, y=82.88, z=4946.44] died, message: '1$s has perished from holy damage'
+[12Jul2025 21:29:22.812] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/41770, l='ServerLevel[world]', x=-2863.50, y=79.00, z=4961.50] died, message: 'Villager was slain by Dread Hound'
+[12Jul2025 21:29:24.803] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/44721, l='ServerLevel[world]', x=-1489.50, y=74.00, z=7904.50]
