@@ -117,6 +117,7 @@
       "minecraft:cherry_grove": "2025-07-12 03:44:22 +0000",
       "minecraft:birch_forest": "2025-06-02 03:00:18 +0000",
       "minecraft:windswept_hills": "2025-06-21 03:02:46 +0000",
+      "minecraft:wooded_badlands": "2025-07-12 19:34:20 +0000",
       "minecraft:beach": "2025-06-05 02:00:33 +0000",
       "minecraft:dark_forest": "2025-06-05 02:04:42 +0000",
       "minecraft:sparse_jungle": "2025-06-19 03:13:40 +0000",
@@ -453,6 +454,7 @@
       "entered_tower_of_the_undead": "2025-06-12 02:39:33 +0000",
       "entered_hay_storage": "2025-07-12 19:20:04 +0000",
       "entered_druid_circle": "2025-06-02 03:03:10 +0000",
+      "entered_desert_temple": "2025-07-12 19:35:39 +0000",
       "entered_ice_pit": "2025-06-20 02:08:57 +0000",
       "entered_ruined_building": "2025-06-12 02:43:29 +0000"
     },
@@ -986,6 +988,7 @@
   },
   "dungeons_enhanced:seven_world_wonders": {
     "criteria": {
+      "entered_desert_temple": "2025-07-12 19:35:39 +0000",
       "entered_ice_pit": "2025-06-20 02:08:57 +0000"
     },
     "done": false
@@ -1304,6 +1307,18 @@
   "irons_spellbooks:irons_spellbooks/spell_book_equip": {
     "criteria": {
       "requirement": "2025-07-12 19:17:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-12 19:35:39 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-07-12 19:41:33 +0000"
     },
     "done": true
   },

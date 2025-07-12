@@ -5479,3 +5479,13 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [12Jul2025 19:34:28.885] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [12Jul2025 19:34:28.887] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: dungeons_arise:underworld/foundry/foundry_corridor_gears
 [12Jul2025 19:35:39.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Traps and Curses]
+[12Jul2025 19:37:22.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23578, l='ServerLevel[world]', x=-1033.30, y=65.00, z=6590.48] died, message: 'Villager was slain by Zombie Villager'
+[12Jul2025 19:37:44.254] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23634, l='ServerLevel[world]', x=-1026.97, y=69.00, z=6605.68] died, message: 'Villager was shot by Zombie Villager'
+[12Jul2025 19:41:33.669] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[12Jul2025 19:41:33.738] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[12Jul2025 19:41:33.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Cursed Pyramid]
+[12Jul2025 19:41:34.003] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[12Jul2025 19:45:14.965] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[12Jul2025 19:45:14.966] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/sand
+[12Jul2025 19:45:14.980] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/desert
+[12Jul2025 19:45:31.549] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29717, l='ServerLevel[world]', x=-512.04, y=74.00, z=6733.52] died, message: 'Villager was slain by Siamese Skeletons'
