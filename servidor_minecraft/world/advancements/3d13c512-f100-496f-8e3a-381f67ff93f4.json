@@ -1071,6 +1071,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_6": "2025-07-12 03:23:21 +0000",
       "squireofthe_dark_lord_5": "2025-06-22 02:38:35 +0000",
       "squireofthe_dark_lord_0": "2025-06-22 02:34:09 +0000"
     },
@@ -1254,6 +1255,18 @@
   "soulsweapons:gatling_gun": {
     "criteria": {
       "gatling_gun": "2025-07-10 15:16:17 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-07-12 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 03:21:05 +0000"
     },
     "done": true
   },
