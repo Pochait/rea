@@ -1421,6 +1421,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-12 21:10:55 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-07-12 21:14:38 +0000"
@@ -1439,9 +1445,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/kangaroo": {
+  "cataclysm:find_cursed_pyramid": {
     "criteria": {
-      "killed": "2025-07-12 21:10:55 +0000"
+      "pyramid": "2025-07-12 22:04:08 +0000"
     },
     "done": true
   },
