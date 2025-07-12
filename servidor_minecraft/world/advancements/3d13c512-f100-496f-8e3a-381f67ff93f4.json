@@ -1369,12 +1369,6 @@
     },
     "done": true
   },
-  "betterdeserttemples:temple_entry": {
-    "criteria": {
-      "in_better_desert_temple": "2025-07-12 21:53:08 +0000"
-    },
-    "done": true
-  },
   "nova_structures:adventure/tavern_quest": {
     "criteria": {
       "open_tavern_chest": "2025-07-12 21:23:38 +0000"
@@ -1384,6 +1378,12 @@
   "dungeons_enhanced:thats_a_dungeon": {
     "criteria": {
       "entered_large_dungeon": "2025-07-12 21:29:19 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:temple_entry": {
+    "criteria": {
+      "in_better_desert_temple": "2025-07-12 21:53:08 +0000"
     },
     "done": true
   },
