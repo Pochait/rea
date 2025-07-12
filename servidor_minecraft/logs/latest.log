@@ -3007,3 +3007,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 03:00:56.721] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jul2025 03:00:56.721] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jul2025 03:00:56.721] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[12Jul2025 03:04:27.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -7.014646429503841,0.12129684053920187,-7.220147047597521
