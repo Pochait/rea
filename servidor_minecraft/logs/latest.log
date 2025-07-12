@@ -5657,3 +5657,18 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [12Jul2025 19:56:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has completed the challenge [Premium!]
 [12Jul2025 19:58:43.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> TTTT
 [12Jul2025 20:02:18.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has reached the goal [Quaint Scribe]
+[12Jul2025 20:10:18.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! 2.233329564082055,-10.836185694133064,2.0379586805092913
+[12Jul2025 20:13:11.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <ThebrosXD> recargo craft
+[12Jul2025 20:13:12.403] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD lost connection: Disconnected
+[12Jul2025 20:13:12.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD left the game
+[12Jul2025 20:13:21.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Angelichi25> KEEEE
+[12Jul2025 20:14:19.603] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[12Jul2025 20:14:19.607] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[12Jul2025 20:14:19.607] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/swamp
+[12Jul2025 20:15:01.273] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/45533, l='ServerLevel[world]', x=-629.50, y=48.00, z=8161.50] as it would cause deadlock
+[12Jul2025 20:16:04.422] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Jul2025 20:16:04.425] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[12Jul2025 20:16:52.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Angelichi25 has made the advancement [Bewitched]
+[12Jul2025 20:16:57.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/46758, l='ServerLevel[world]', x=-813.69, y=63.52, z=8203.30] died, message: 'Villager was killed by Witch using magic'
+[12Jul2025 20:17:38.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/46222, l='ServerLevel[world]', x=-804.50, y=65.56, z=8191.70] died, message: 'Mason was laid to rest by Priest'
+[12Jul2025 20:17:46.047] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/46556, l='ServerLevel[world]', x=-815.00, y=64.54, z=8190.70] died, message: 'Mason was killed by Witch using magic'
