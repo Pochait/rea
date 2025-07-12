@@ -362,6 +362,7 @@
       "highland": "2025-06-12 02:31:19 +0000",
       "marsh": "2025-07-12 20:16:45 +0000",
       "clover_patch": "2025-06-19 01:35:17 +0000",
+      "mystic_grove": "2025-07-12 21:09:18 +0000",
       "old_growth_woodland": "2025-06-19 02:51:08 +0000",
       "maple_woods": "2025-06-21 03:11:14 +0000",
       "crystalline_chasm": "2025-06-21 01:55:42 +0000",
@@ -456,6 +457,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-12 02:39:33 +0000",
+      "entered_stables": "2025-07-12 21:14:24 +0000",
       "entered_hay_storage": "2025-07-12 19:20:04 +0000",
       "entered_druid_circle": "2025-06-02 03:03:10 +0000",
       "entered_desert_temple": "2025-07-12 19:35:39 +0000",

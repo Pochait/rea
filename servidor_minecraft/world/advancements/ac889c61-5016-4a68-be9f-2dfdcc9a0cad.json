@@ -115,6 +115,7 @@
       "minecraft:cherry_grove": "2025-06-19 03:44:30 +0000",
       "minecraft:birch_forest": "2025-07-07 02:40:44 +0000",
       "minecraft:windswept_hills": "2025-06-12 02:02:53 +0000",
+      "minecraft:wooded_badlands": "2025-07-12 21:10:13 +0000",
       "minecraft:badlands": "2025-07-12 21:02:37 +0000",
       "minecraft:beach": "2025-06-05 02:00:57 +0000",
       "minecraft:dark_forest": "2025-07-12 03:57:04 +0000",
@@ -368,6 +369,7 @@
       "lush_desert": "2025-07-12 21:01:04 +0000",
       "redwood_forest": "2025-07-12 03:51:34 +0000",
       "visceral_heap": "2025-06-15 19:35:46 +0000",
+      "wasteland_steppe": "2025-07-12 21:06:46 +0000",
       "seasonal_orchard": "2025-06-15 02:35:21 +0000",
       "dune_beach": "2025-06-12 02:34:35 +0000",
       "seasonal_forest": "2025-06-12 02:45:08 +0000",
@@ -1413,6 +1415,18 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-07-12 04:18:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-07-12 21:14:38 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed": "2025-07-12 21:10:55 +0000"
     },
     "done": true
   },

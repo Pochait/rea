@@ -2514,3 +2514,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 21:03:26.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ThebrosXD moved too quickly! -5.117424007817817,0.17675927506424216,8.673013499429544
 [12Jul2025 21:04:04.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1342, y=72, z=6041} BlockPos{x=-1342, y=71, z=6040}
 [12Jul2025 21:04:19.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/18699, l='ServerLevel[world]', x=-1382.24, y=72.00, z=6009.50] died, message: 'Villager was slain by Decaying Zombie'
+[12Jul2025 21:10:55.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [We do a little trolling...]
+[12Jul2025 21:11:15.323] [Worker-Main-9/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[12Jul2025 21:14:38.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [Masquerade]
+[12Jul2025 21:15:26.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! -9.116110801696777,7.5,13.149012565612793
+[12Jul2025 21:15:27.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! 16.144533157348633,-10.0,-5.324850857257843
+[12Jul2025 21:15:28.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! -1.792317807674408,0.0,13.884797096252441
+[12Jul2025 21:15:31.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! 4.310637444257736,-0.5,-10.120197534561157
+[12Jul2025 21:17:09.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThebrosXD has made the advancement [It's an Emu!!!]
