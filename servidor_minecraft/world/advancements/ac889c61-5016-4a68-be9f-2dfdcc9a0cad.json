@@ -116,6 +116,7 @@
       "minecraft:birch_forest": "2025-07-07 02:40:44 +0000",
       "minecraft:windswept_hills": "2025-06-12 02:02:53 +0000",
       "minecraft:beach": "2025-06-05 02:00:57 +0000",
+      "minecraft:dark_forest": "2025-07-12 03:57:04 +0000",
       "minecraft:sparse_jungle": "2025-06-19 03:13:56 +0000",
       "minecraft:river": "2025-06-02 02:01:52 +0000",
       "minecraft:lukewarm_ocean": "2025-06-19 03:01:53 +0000",
@@ -1365,6 +1366,12 @@
   "soulsweapons:verglas": {
     "criteria": {
       "verglas": "2025-07-12 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-12 04:00:24 +0000"
     },
     "done": true
   },

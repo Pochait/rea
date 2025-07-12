@@ -1362,6 +1362,12 @@
     },
     "done": true
   },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_helmet": "2025-07-12 03:55:19 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
       "squireofthe_dark_lord_6": "2025-07-12 03:24:16 +0000"
@@ -1379,6 +1385,12 @@
       "trickor_treat_7": "2025-07-12 03:24:37 +0000"
     },
     "done": false
+  },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 03:55:19 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
