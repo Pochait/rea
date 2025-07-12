@@ -1320,6 +1320,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:shakeand_mix": {
+    "criteria": {
+      "shakeand_mix_0": "2025-07-10 14:29:50 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:heap_of_iron": {
     "criteria": {
       "guts_sword": "2025-07-10 14:40:00 +0000"
@@ -1331,12 +1337,6 @@
       "guts_sword": "2025-07-10 14:40:00 +0000"
     },
     "done": false
-  },
-  "born_in_chaos_v1:shakeand_mix": {
-    "criteria": {
-      "shakeand_mix_0": "2025-07-10 14:29:50 +0000"
-    },
-    "done": true
   },
   "soulsweapons:bloodthirsty": {
     "criteria": {

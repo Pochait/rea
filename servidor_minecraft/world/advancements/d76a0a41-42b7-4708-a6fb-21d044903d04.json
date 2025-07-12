@@ -1329,12 +1329,6 @@
     },
     "done": true
   },
-  "deeperdarker:main/root": {
-    "criteria": {
-      "deep_dark": "2025-07-10 03:36:12 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-07-10 02:35:38 +0000"
@@ -1347,15 +1341,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-10 02:48:09 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-07-10 03:30:16 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/use_preservation": {
+  "deeperdarker:main/root": {
     "criteria": {
-      "has_magic_scroll": "2025-07-10 02:48:09 +0000"
+      "deep_dark": "2025-07-10 03:36:12 +0000"
     },
     "done": true
   },
