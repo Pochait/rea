@@ -2530,3 +2530,4 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jul2025 02:36:27.014] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jul2025 02:36:27.014] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
 [12Jul2025 02:36:27.014] [Server thread/WARN] [com.unlikepaladin.pfm.PaladinFurnitureMod/]: Something has tried to get the output of a dynamic furniture recipe without context
+[12Jul2025 02:48:17.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Angelichi25 moved too quickly! -0.3999999761581421,0.0,10.160919793161042
