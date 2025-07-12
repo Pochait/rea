@@ -121,6 +121,7 @@
       "minecraft:lukewarm_ocean": "2025-06-19 03:01:53 +0000",
       "minecraft:stony_shore": "2025-06-15 02:09:39 +0000",
       "minecraft:dripstone_caves": "2025-06-12 01:41:48 +0000",
+      "minecraft:grove": "2025-07-12 03:33:28 +0000",
       "minecraft:cold_ocean": "2025-06-15 02:09:43 +0000",
       "minecraft:forest": "2025-06-05 02:06:51 +0000",
       "minecraft:deep_cold_ocean": "2025-06-15 02:18:16 +0000",
@@ -361,9 +362,11 @@
       "volcanic_plains": "2025-06-19 02:51:28 +0000",
       "lavender_field": "2025-06-12 02:41:28 +0000",
       "fir_clearing": "2025-06-15 02:35:24 +0000",
+      "pumpkin_patch": "2025-07-12 03:34:44 +0000",
       "grassland": "2025-06-02 02:44:40 +0000",
       "prairie": "2025-06-02 03:15:33 +0000",
-      "rainforest": "2025-06-12 02:21:18 +0000"
+      "rainforest": "2025-06-12 02:21:18 +0000",
+      "crag": "2025-07-12 03:33:21 +0000"
     },
     "done": false
   },
