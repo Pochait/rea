@@ -129,6 +129,7 @@
       "minecraft:cold_ocean": "2025-06-12 02:47:43 +0000",
       "minecraft:forest": "2025-06-02 02:59:36 +0000",
       "minecraft:deep_cold_ocean": "2025-06-15 02:19:30 +0000",
+      "minecraft:desert": "2025-07-12 19:32:09 +0000",
       "minecraft:ocean": "2025-06-05 02:00:41 +0000",
       "minecraft:jungle": "2025-06-19 03:11:57 +0000",
       "minecraft:windswept_savanna": "2025-06-21 03:02:36 +0000",
@@ -355,6 +356,7 @@
       "shrubland": "2025-06-02 02:37:16 +0000",
       "rocky_shrubland": "2025-06-02 03:00:41 +0000",
       "scrubland": "2025-06-02 02:45:54 +0000",
+      "lush_savanna": "2025-07-12 19:31:35 +0000",
       "highland": "2025-06-12 02:31:19 +0000",
       "clover_patch": "2025-06-19 01:35:17 +0000",
       "old_growth_woodland": "2025-06-19 02:51:08 +0000",
@@ -364,10 +366,15 @@
       "orchard": "2025-06-19 02:50:20 +0000",
       "field": "2025-06-20 02:03:47 +0000",
       "lavender_forest": "2025-06-21 03:02:00 +0000",
+      "mediterranean_forest": "2025-07-12 19:21:28 +0000",
       "coniferous_forest": "2025-06-12 02:37:15 +0000",
       "spider_nest": "2025-06-19 03:37:04 +0000",
+      "dryland": "2025-07-12 19:29:07 +0000",
+      "wasteland": "2025-07-12 19:26:40 +0000",
+      "lush_desert": "2025-07-12 19:30:55 +0000",
       "redwood_forest": "2025-06-21 03:02:17 +0000",
       "visceral_heap": "2025-06-15 19:35:51 +0000",
+      "wasteland_steppe": "2025-07-12 19:26:20 +0000",
       "seasonal_orchard": "2025-06-15 02:08:56 +0000",
       "dune_beach": "2025-06-12 02:29:55 +0000",
       "seasonal_forest": "2025-06-12 02:44:11 +0000",
@@ -444,6 +451,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-06-12 02:39:33 +0000",
+      "entered_hay_storage": "2025-07-12 19:20:04 +0000",
       "entered_druid_circle": "2025-06-02 03:03:10 +0000",
       "entered_ice_pit": "2025-06-20 02:08:57 +0000",
       "entered_ruined_building": "2025-06-12 02:43:29 +0000"
@@ -1284,6 +1292,18 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-07-12 04:18:42 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-07-12 19:17:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-07-12 19:17:04 +0000"
     },
     "done": true
   },
