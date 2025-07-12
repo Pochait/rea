@@ -132,6 +132,7 @@
       "minecraft:frozen_peaks": "2025-06-19 03:45:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 02:05:23 +0000",
       "minecraft:meadow": "2025-06-16 00:01:10 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-07-12 04:28:38 +0000",
       "minecraft:savanna": "2025-06-19 03:27:11 +0000",
       "minecraft:plains": "2025-06-02 02:01:56 +0000"
     },
@@ -354,6 +355,7 @@
       "withered_abyss": "2025-06-15 19:37:53 +0000",
       "orchard": "2025-06-19 02:47:22 +0000",
       "lavender_forest": "2025-07-12 03:44:31 +0000",
+      "bog": "2025-07-12 04:26:38 +0000",
       "coniferous_forest": "2025-06-12 02:37:19 +0000",
       "spider_nest": "2025-06-02 05:13:07 +0000",
       "redwood_forest": "2025-07-12 03:51:34 +0000",
@@ -1364,36 +1366,6 @@
     },
     "done": true
   },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2025-07-12 04:18:48 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ally_enhancer": {
-    "criteria": {
-      "coded_trigger": "2025-07-12 04:11:51 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:verglas": {
-    "criteria": {
-      "verglas": "2025-07-12 03:49:05 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/use_lightning_resistance": {
-    "criteria": {
-      "has_magic_scroll": "2025-07-12 04:11:51 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-07-12 04:00:24 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:trickor_treat": {
     "criteria": {
       "trickor_treat_0": "2025-07-12 03:22:44 +0000",
@@ -1405,6 +1377,36 @@
       "trickor_treat_7": "2025-07-12 03:24:11 +0000"
     },
     "done": false
+  },
+  "soulsweapons:verglas": {
+    "criteria": {
+      "verglas": "2025-07-12 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-07-12 04:00:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ally_enhancer": {
+    "criteria": {
+      "coded_trigger": "2025-07-12 04:11:51 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_lightning_resistance": {
+    "criteria": {
+      "has_magic_scroll": "2025-07-12 04:11:51 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-07-12 04:18:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
